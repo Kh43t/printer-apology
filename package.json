@@ -1,0 +1,1 @@
+{"description":"The funniest one-line apology from an office printer, 120 characters max — it quits and takes the toner.","license":"MIT","main":"main.ts","name":"printer-apology","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
